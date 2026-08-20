@@ -42,7 +42,7 @@ AddOns/
 └── 📁 SprintSensitivityFix/
     ├── ⚖️ LICENSE
     ├── 📖 README.txt
-    ├── 📄 SprintSens.txt
+    ├── 📄 SprintSensitivityFix.txt
     └── 📁 lua
         ├── ⚙️ SprintSensitivityFix-API.lua
         └── ⚙️ SprintSens-Settings.lua
