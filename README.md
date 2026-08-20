@@ -21,7 +21,6 @@
 * **🐢 No Sprint Slowdown:** Eliminates the built-in sensitivity drop when sprinting, keeping your camera movement fluid and consistent.
 * **🎮 Dual Input Support:** Fully supports both Keyboard/Mouse and Gamepad controls using dedicated handling for each input mode.
 * **⚙️ Smart Settings Menu:** Provides direct shortcuts to camera sensitivity settings in the Add-On menu, bypassing the base game's restriction that hides settings for whichever input isn't currently active.
-* **👥 Account/Character Profiles:** Save settings account-wide or customize them per character, allowing multiple players on the same account to use their own preferences.
 * **🛡️ Context-Aware:** Automatically pauses itself during actions where default sensitivity is required (such as running out of stamina or dodge rolling).
 
 <a href="#">
