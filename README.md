@@ -18,10 +18,15 @@
 
 ## 📋 Key Features
 
-* **🐢 No Sprint Slowdown:** Eliminates the built-in sensitivity drop when sprinting, keeping your camera movement fluid and consistent.
-* **🎮 Dual Input Support:** Fully supports both Keyboard/Mouse and Gamepad controls using dedicated handling for each input mode.
-* **⚙️ Smart Settings Menu:** Provides direct shortcuts to camera sensitivity settings in the Add-On menu, bypassing the base game's restriction that hides settings for whichever input isn't currently active.
-* **🛡️ Context-Aware:** Automatically pauses itself during actions where default sensitivity is required (such as running out of stamina or dodge rolling).
+* **🐢 Consistent Sprint Sensitivity:** Eliminates the built-in sensitivity drop when sprinting.
+* **🎮 Dual Input Support:** Fully supports both Keyboard/Mouse and Gamepad controls.
+* **⚙️ Smart Settings Menu:** Provides direct shortcuts to camera sensitivity settings in the Addon menu.
+* **🛡️ Context-Aware:** Automatically pauses itself during actions where default sensitivity is required.
+
+* **🐢 Consistent Sprint Sensitivity:** Eliminates the built-in sensitivity drop when sprinting.
+* **🎮 Dual Input Support:** Fully supports both Keyboard/Mouse and Gamepad controls.
+* **⚙️ Smart Settings Menu:** Provides direct shortcuts to camera sensitivity settings in the Addon menu.
+* **🛡️ Context-Aware:** Automatically pauses itself during actions where default sensitivity is required.
 
 <a href="#">
 <img src="https://github.com/user-attachments/assets/6857b7ab-6799-4495-adaf-5cba3fe4827c" width="100%" height="1" />
