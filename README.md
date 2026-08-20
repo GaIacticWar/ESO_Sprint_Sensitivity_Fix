@@ -62,7 +62,7 @@ AddOns/
 
 <p align="center">
   <a href="#">
-    <img width="50%" alt="Addon Settings v6 0" src="https://github.com/user-attachments/assets/4caf1a83-1399-4942-b123-12db71b4cfcb" />
+    <img width="50%" alt="Addon Settings v6 0" src="https://github.com/user-attachments/assets/70f26980-1e1d-4f36-bcc4-d982972a890f" />
   </a>
 </p>
 
