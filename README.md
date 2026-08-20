@@ -48,11 +48,23 @@ AddOns/
         └── ⚙️ SprintSens-Settings.lua
 ```
 
-### 📝 Mod Activation
+<a href="#">
+<img src="https://github.com/user-attachments/assets/6857b7ab-6799-4495-adaf-5cba3fe4827c" width="100%" height="1" />
+</a>
+&nbsp;
 
-1. Launch ESO and reach the character select screen (or the in-game pause menu).
-2. Open the Add-Ons menu.
-3. Check Sprint Sensitivity Fix.
+## ⚙️ Configuration (<small>`InterfaceExtender.ini`</small>)
+
+1. Launch ESO and reach the the in-game pause menu.
+2. Open the main menu (press Esc on keyboard or Options/Menu on gamepad).
+3. Navigate to `Settings` > `Addons` > `Sprint Sensitivity Fix`.
+4. Adjust the values to your preferences.
+
+<p align="center">
+  <a href="#">
+    <img width="50%" alt="Addon Settings v6 0" src="https://github.com/user-attachments/assets/4caf1a83-1399-4942-b123-12db71b4cfcb" />
+  </a>
+</p>
 
 <a href="#">
 <img src="https://github.com/user-attachments/assets/6857b7ab-6799-4495-adaf-5cba3fe4827c" width="100%" height="1" />
