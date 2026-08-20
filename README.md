@@ -58,7 +58,7 @@ AddOns/
 1. Launch ESO and reach the the in-game pause menu.
 2. Open the main menu (press Esc on keyboard or Options/Menu on gamepad).
 3. Navigate to `Settings` > `Addons` > `Sprint Sensitivity Fix`.
-4. Adjust the values to your preferences.
+4. Adjust the values to your preferences:
 
 <p align="center">
   <a href="#">
