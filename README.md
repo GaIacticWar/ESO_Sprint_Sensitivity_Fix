@@ -45,7 +45,7 @@ AddOns/
     ├── 📄 SprintSensitivityFix.txt
     └── 📁 lua
         ├── ⚙️ SprintSensitivityFix-API.lua
-        └── ⚙️ SprintSens-Settings.lua
+        └── ⚙️ SprintSensitivityFix-Settings.lua
 ```
 
 <a href="#">
