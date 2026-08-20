@@ -23,6 +23,8 @@
 * **⚙️ Smart Settings Menu:** Provides direct shortcuts to camera sensitivity settings in the Addon menu.
 * **🛡️ Context-Aware:** Automatically pauses itself during actions where default sensitivity is required.
 
+---
+
 * **🐢 Consistent Sprint Sensitivity:** Eliminates the built-in sensitivity drop when sprinting.
 * **🎮 Dual Input Support:** Fully supports both Keyboard/Mouse and Gamepad controls.
 * **⚙️ Smart Settings Menu:** Provides direct shortcuts to camera sensitivity settings in the Addon menu.
