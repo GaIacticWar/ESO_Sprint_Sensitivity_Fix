@@ -35,13 +35,13 @@
     Extract the downloaded .zip file directly into your ESO AddOns folder:
 
 AddOns/
-└── SprintSensitivityFix/
-    ├── LICENSE
-    ├── README.txt
-    ├── SprintSensitivityFix.txt
-    └── lua/
-        ├── SprintSensitivityFix-API.lua
-        └── SprintSensitivityFix-Settings.lua
+└── 📁 SprintSensitivityFix/
+    ├── ⚖️ LICENSE
+    ├── 📖 README.txt
+    ├── 📄 SprintSensitivityFix.txt
+    └── 📁 lua
+        ├── ⚙️ SprintSensitivityFix-API.lua
+        └── ⚙️ SprintSensitivityFix-Settings.lua
 
 
 --------------------------------------------------------------------------------------------------------------------------------
