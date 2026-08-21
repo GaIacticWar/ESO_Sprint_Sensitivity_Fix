@@ -8,7 +8,7 @@
 <h1 align="center">Sprint Sensitivity Fix</h1>
 
 <p align="justify">
-&nbsp;&nbsp;&nbsp;&nbsp;An efficient Elder Scrolls Online addon that removes the forced camera slowdown while sprinting. This addon maintains your normal look speed across camera views.
+&nbsp;&nbsp;&nbsp;&nbsp;An efficient Elder Scrolls Online addon that prevents camera sensitivity reduction while sprinting, delivering consistent 1:1 sensitivity in first and third person.
 </p>
 
 <a href="#">
