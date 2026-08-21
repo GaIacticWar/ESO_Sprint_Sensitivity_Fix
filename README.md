@@ -19,7 +19,8 @@
 ## 📋 Key Features
 
 * **🐢 1:1 Sprint Sensitivity:** Eliminates the built-in sensitivity drop when sprinting.
-* **🎮 Dual Input Support:** Fully supports both Keyboard/Mouse and Gamepad controls.
+* **🔀 Dual Input Support:** Fully supports both Keyboard/Mouse and Gamepad controls.
+* **🎮 Higher Gamepad Sensitivity Cap:** Raises gamepad max sensitivity to 500 (previously 100).
 * **⚙️ Smart Settings Menu:** Provides direct shortcuts to camera sensitivity settings in the Addon menu.
 * **🛡️ Context-Aware:** Automatically pauses itself during actions where default sensitivity is required.
 
