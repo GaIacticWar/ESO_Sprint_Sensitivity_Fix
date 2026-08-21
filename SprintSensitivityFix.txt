@@ -1,6 +1,6 @@
 ## Title: |cC3C198Sprint Sensitivity Fix|r
 ## Author: |cC3C198@GalacticWar|r
-## Version: 6.0
+## Version: 6.0.0
 ## APIVersion: 101050
 ## SavedVariables: SprintSensitivityFixSettings
 ## DependsOn: LibAddonMenu-2.0>=28

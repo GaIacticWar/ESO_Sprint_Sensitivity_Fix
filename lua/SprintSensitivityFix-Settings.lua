@@ -5,7 +5,7 @@ local function loadConfig()
     type = "panel",
     name = "|cC3C198Sprint Sensitivity Fix|r",
     author = "|cC3C198@GalacticWar|r",
-    version = "6.0",
+    version = "6.0.0",
     registerForDefaults = true,
   }
 
