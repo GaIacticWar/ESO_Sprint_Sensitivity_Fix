@@ -31,7 +31,7 @@
 ## 📦 Installation
 
 ### 📌 Prerequisites
-* **[LibAddonMenu-2.0](https://www.esoui.com/downloads/fileinfo.php?id=7)** (r38 or higher) must be installed in your `AddOns` folder.
+* **[LibAddonMenu-2.0](https://www.esoui.com/downloads/fileinfo.php?id=7)** (r28 or higher) must be installed in your `AddOns` folder.
 
 ### 🗃️ Directory Structure
 
